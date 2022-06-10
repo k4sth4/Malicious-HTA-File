@@ -29,7 +29,7 @@ open Visual Studio Code on the attacker-windows VM and create a new file.
 </html>
 ```
 
-save the file and browse to this file in explorer and double-click it to run.If calculater pops up it means code get executed.We can now replace the calc to payload to get shell of target machine.
+Save the file and browse to this file in explorer and double-click it to run.If calculater pops up it means code get executed.We can now replace the calc to payload to get shell.
 
 ### ALTERNATE
 ### Using msfvenom
