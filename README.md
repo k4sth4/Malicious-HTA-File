@@ -5,7 +5,7 @@ An HTA is a proprietary Windows program whose source code consists of HTML and o
 
 # Demonstration
 
-## Creating a malicious hta file to execute a calc.exe
+## Creating a malicious hta file to execute calc.exe
 
 open Visual Studio Code on the attacker-windows VM and create a new file.
 ```markdown
